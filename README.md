@@ -1,2 +1,1 @@
-# Java-Learning
-Learning and Practice of Java
+# Learning and Practice of Java
